@@ -1,0 +1,5 @@
+Zeitaufwand: 6:00
+
+< Im Großen und Ganzen war das Arbeitsblatt gut machbar, auch die letzte VL war
+sehr verständlich.
+Das zeitaufwändige bei C ist, dass man ständig neu kompilieren muss.>

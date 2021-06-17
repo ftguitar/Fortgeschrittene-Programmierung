@@ -1,0 +1,4 @@
+Zeitaufwand: 4:00
+
+<die Anleitungen, wie git und die shell funktionieren waren richtig gut,
+genau das, was ich gesucht hatte, aber auf YouTube nicht gefunden habe.>

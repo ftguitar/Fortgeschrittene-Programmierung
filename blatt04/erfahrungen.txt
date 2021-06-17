@@ -1,0 +1,4 @@
+Zeitaufwand: 5:00
+
+< Arbeitsblatt war gut gemacht, so langsam gewöhnt man sich an C, ist halt 
+einfach anderes als Python.>

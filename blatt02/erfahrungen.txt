@@ -1,0 +1,5 @@
+Zeitaufwand: 2:45
+
+<Arbeitsblatt war im Großen und Ganzen ok, als Vorschlag: wäre 
+es vielleicht möglich, in der VL die Unterschiede zu Python mehr rauszu-
+arbeiten; da hapert es zumindest bei mir noch ein bisschen.>

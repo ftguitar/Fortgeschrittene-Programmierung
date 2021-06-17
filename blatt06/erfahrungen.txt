@@ -1,0 +1,6 @@
+Zeitaufwand: 8:00
+
+< Es ist etwas problematisch, dass die Aufgaben teilweise aufeinander aufbauen,
+wenn man den ersten Teil nicht verstanden hat und dann die anderen Teilaufgaben
+dies als Grundlage voraussetzen und dann auch die Tests nicht mehr
+funktionieren.>

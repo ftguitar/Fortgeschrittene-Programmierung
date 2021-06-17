@@ -1,0 +1,7 @@
+Zeitaufwand: 8:00
+
+< Das Blatt war ganz gut, auch die Aufgabe war von der Grundidee, die
+dahinterstand, echt interessant. Leider habe ich die Funktion [int read_int(int
+* user_input) ] nicht so ganz durchblickt und konnte deshalb ./statistics 
+nicht wirklich implementieren.>
+  

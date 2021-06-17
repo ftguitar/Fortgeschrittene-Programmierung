@@ -1,0 +1,6 @@
+Zeitaufwand: 3:30
+
+<ÜB war nicht allzu schwer, allerdings war mir nicht ganz klar, wie man ganz
+allgemein Dateien öffnet und dann auch damit arbeitet. Vielleicht wäre es noch
+ganz interessant zu sehen, was wirklich hinter fopen, fwrite, fread etc.
+steht.>
